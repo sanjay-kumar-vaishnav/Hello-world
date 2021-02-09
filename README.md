@@ -1,2 +1,2 @@
 # Hello-world
-its my first repo ion github.
+its my first repo on github.
